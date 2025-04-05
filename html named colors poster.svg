@@ -76,7 +76,7 @@
 
   <!-- ORANGE/BROWN GROUP -->
   <g transform="translate(0, 630)">
-    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">ORANGES & BROWNS</text>
+    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">ORANGES &amp;BROWNS</text>
 
     <!-- SaddleBrown -->
     <rect x="0" y="100" width="471.43" height="510" fill="#8B4513"/>
@@ -301,7 +301,7 @@
 
   <!-- LIGHT GREEN/CYAN GROUP -->
   <g transform="translate(0, 2520)">
-    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">LIGHT GREENS & CYANS</text>
+    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">LIGHT GREENS &amp;CYANS</text>
 
     <!-- GreenYellow -->
     <rect x="0" y="100" width="471.43" height="510" fill="#ADFF2F"/>
@@ -451,7 +451,7 @@
 
   <!-- LIGHT BLUE GROUP -->
   <g transform="translate(0, 3780)">
-    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">LIGHT BLUES & PURPLES</text>
+    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">LIGHT BLUES &amp;PURPLES</text>
 
     <!-- SkyBlue -->
     <rect x="0" y="100" width="471.43" height="510" fill="#87CEEB"/>
@@ -526,7 +526,7 @@
 
   <!-- PURPLE/MAGENTA GROUP -->
   <g transform="translate(0, 4410)">
-    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">PURPLES & MAGENTAS</text>
+    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">PURPLES &amp;MAGENTAS</text>
 
     <!-- Indigo -->
     <rect x="0" y="100" width="471.43" height="510" fill="#4B0082"/>
@@ -601,7 +601,7 @@
 
   <!-- GRAYS/WHITES GROUP -->
   <g transform="translate(0, 5040)">
-    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">GRAYS & WHITES</text>
+    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">GRAYS &amp;WHITES</text>
 
     <!-- Black -->
     <rect x="0" y="100" width="471.43" height="510" fill="#000000"/>
@@ -624,7 +624,8 @@
     <text x="1855.72" y="580" font-family="monospace" fill="white" font-size="30" text-anchor="end">#008080</text>
 
     <!-- DimGray -->
-    <rect x="1885.72" y="100" width="471.43" height="510" fill="#696969</text>
+    <rect x="1885.72" y="100" width="471.43" height="510" fill="#696969"/>
+    <text x="2327.15" y="160" font-family="monospace" fill="white" font-size="45" text-anchor="end">DimGray</text>
     <text x="2327.15" y="580" font-family="monospace" fill="white" font-size="30" text-anchor="end">#696969</text>
 
     <!-- SlateGray -->
@@ -751,6 +752,4 @@
     <text x="6360" y="470" font-family="monospace" fill="black" font-size="30" text-anchor="middle">Text color indicates</text>
     <text x="6360" y="530" font-family="monospace" fill="black" font-size="30" text-anchor="middle">readability on that background</text>
   </g>
-</svg>"/>
-    <text x="2327.15" y="160" font-family="monospace" fill="white" font-size="45" text-anchor="end">DimGray</text>
-    <text x="2327.15" y="580" font-family="monospace" fill="white" font-size="30" text-anchor="end">#696969
+</svg>
