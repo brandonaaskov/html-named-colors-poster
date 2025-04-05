@@ -3,38 +3,38 @@
   <g>
     <!-- Red -->
     <rect x="0" y="0" width="471.43" height="510" fill="#FF0000"/>
-    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Red</text>
-    <text x="441.43" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#FF0000</text>
+    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Red</text>
+    <text x="441.43" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#FF0000</text>
 
     <!-- Crimson -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#DC143C"/>
-    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Crimson</text>
-    <text x="912.86" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#DC143C</text>
+    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Crimson</text>
+    <text x="912.86" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#DC143C</text>
 
     <!-- IndianRed -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#CD5C5C"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">IndianRed</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#CD5C5C</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">IndianRed</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#CD5C5C</text>
 
     <!-- LightCoral -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#F08080"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightCoral</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F08080</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightCoral</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F08080</text>
 
     <!-- DarkRed -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#8B0000"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkRed</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#8B0000</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkRed</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#8B0000</text>
 
     <!-- Firebrick -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#B22222"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Firebrick</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#B22222</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Firebrick</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#B22222</text>
 
     <!-- Brown -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#A52A2A"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Brown</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#A52A2A</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Brown</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#A52A2A</text>
 
     <!-- Maroon -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#800000"/>
@@ -43,689 +43,689 @@
 
     <!-- Salmon -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#FA8072"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Salmon</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FA8072</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Salmon</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FA8072</text>
 
     <!-- DarkSalmon -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#E9967A"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkSalmon</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#E9967A</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkSalmon</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#E9967A</text>
 
     <!-- LightSalmon -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#FFA07A"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightSalmon</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFA07A</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightSalmon</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFA07A</text>
 
     <!-- Tomato -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#FF6347"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Tomato</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FF6347</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Tomato</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FF6347</text>
 
     <!-- OrangeRed -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#FF4500"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">OrangeRed</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#FF4500</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">OrangeRed</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#FF4500</text>
 
     <!-- Coral -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#FF7F50"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Coral</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FF7F50</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Coral</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FF7F50</text>
   </g>
 
   <!-- Row 2 -->
   <g transform="translate(0, 510)">
     <!-- Orange -->
     <rect x="0" y="0" width="471.43" height="510" fill="#FFA500"/>
-    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Orange</text>
-    <text x="441.43" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFA500</text>
+    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Orange</text>
+    <text x="441.43" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFA500</text>
 
     <!-- DarkOrange -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#FF8C00"/>
-    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkOrange</text>
-    <text x="912.86" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FF8C00</text>
+    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkOrange</text>
+    <text x="912.86" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FF8C00</text>
 
     <!-- SaddleBrown -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#8B4513"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">SaddleBrown</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#8B4513</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">SaddleBrown</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#8B4513</text>
 
     <!-- Sienna -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#A0522D"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Sienna</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#A0522D</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Sienna</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#A0522D</text>
 
     <!-- Chocolate -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#D2691E"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Chocolate</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#D2691E</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Chocolate</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#D2691E</text>
 
     <!-- Peru -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#CD853F"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Peru</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#CD853F</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Peru</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#CD853F</text>
 
     <!-- SandyBrown -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#F4A460"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">SandyBrown</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F4A460</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">SandyBrown</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F4A460</text>
 
     <!-- BurlyWood -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#DEB887"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">BurlyWood</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#DEB887</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">BurlyWood</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#DEB887</text>
 
     <!-- Tan -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#D2B48C"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Tan</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#D2B48C</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Tan</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#D2B48C</text>
 
     <!-- RosyBrown -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#BC8F8F"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">RosyBrown</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#BC8F8F</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">RosyBrown</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#BC8F8F</text>
 
     <!-- Wheat -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#F5DEB3"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Wheat</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F5DEB3</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Wheat</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F5DEB3</text>
 
     <!-- NavajoWhite -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#FFDEAD"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">NavajoWhite</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFDEAD</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">NavajoWhite</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFDEAD</text>
 
     <!-- Bisque -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#FFE4C4"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Bisque</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFE4C4</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Bisque</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFE4C4</text>
 
     <!-- BlanchedAlmond -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#FFEBCD"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">BlanchedAlmond</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFEBCD</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">BlanchedAlmond</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFEBCD</text>
   </g>
 
   <!-- Row 3 -->
   <g transform="translate(0, 1020)">
     <!-- Cornsilk -->
     <rect x="0" y="0" width="471.43" height="510" fill="#FFF8DC"/>
-    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Cornsilk</text>
-    <text x="441.43" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFF8DC</text>
+    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Cornsilk</text>
+    <text x="441.43" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFF8DC</text>
 
     <!-- DarkGoldenrod -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#B8860B"/>
-    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkGoldenrod</text>
-    <text x="912.86" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#B8860B</text>
+    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkGoldenrod</text>
+    <text x="912.86" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#B8860B</text>
 
     <!-- Goldenrod -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#DAA520"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Goldenrod</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#DAA520</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Goldenrod</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#DAA520</text>
 
     <!-- Gold -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#FFD700"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Gold</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFD700</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Gold</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFD700</text>
 
     <!-- Yellow -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#FFFF00"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Yellow</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFF00</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Yellow</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFF00</text>
 
     <!-- LightYellow -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#FFFFE0"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightYellow</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFFE0</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightYellow</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFFE0</text>
 
     <!-- LemonChiffon -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#FFFACD"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LemonChiffon</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFACD</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LemonChiffon</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFACD</text>
 
     <!-- PapayaWhip -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#FFEFD5"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PapayaWhip</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFEFD5</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PapayaWhip</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFEFD5</text>
 
     <!-- Moccasin -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#FFE4B5"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Moccasin</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFE4B5</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Moccasin</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFE4B5</text>
 
     <!-- PeachPuff -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#FFDAB9"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PeachPuff</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFDAB9</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PeachPuff</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFDAB9</text>
 
     <!-- PaleGoldenrod -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#EEE8AA"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PaleGoldenrod</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#EEE8AA</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PaleGoldenrod</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#EEE8AA</text>
 
     <!-- LightGoldenrodYellow -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#FAFAD2"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightGoldenrodYellow</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FAFAD2</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightGoldenrodYellow</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FAFAD2</text>
 
     <!-- Khaki -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#F0E68C"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Khaki</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F0E68C</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Khaki</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F0E68C</text>
 
     <!-- DarkKhaki -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#BDB76B"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkKhaki</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#BDB76B</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkKhaki</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#BDB76B</text>
   </g>
 
   <!-- Row 4 -->
   <g transform="translate(0, 1530)">
     <!-- DarkOliveGreen -->
     <rect x="0" y="0" width="471.43" height="510" fill="#556B2F"/>
-    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkOliveGreen</text>
-    <text x="441.43" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#556B2F</text>
+    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkOliveGreen</text>
+    <text x="441.43" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#556B2F</text>
 
     <!-- Olive -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#808000"/>
-    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Olive</text>
-    <text x="912.86" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#808000</text>
+    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Olive</text>
+    <text x="912.86" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#808000</text>
 
     <!-- OliveDrab -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#6B8E23"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">OliveDrab</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#6B8E23</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">OliveDrab</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#6B8E23</text>
 
     <!-- YellowGreen -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#9ACD32"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">YellowGreen</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#9ACD32</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">YellowGreen</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#9ACD32</text>
 
     <!-- LimeGreen -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#32CD32"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LimeGreen</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#32CD32</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LimeGreen</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#32CD32</text>
 
     <!-- Lime -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#00FF00"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Lime</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00FF00</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Lime</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00FF00</text>
 
     <!-- LawnGreen -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#7CFC00"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LawnGreen</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#7CFC00</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LawnGreen</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#7CFC00</text>
 
     <!-- Chartreuse -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#7FFF00"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Chartreuse</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#7FFF00</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Chartreuse</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#7FFF00</text>
 
     <!-- GreenYellow -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#ADFF2F"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">GreenYellow</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#ADFF2F</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">GreenYellow</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#ADFF2F</text>
 
     <!-- SpringGreen -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#00FF7F"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">SpringGreen</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00FF7F</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">SpringGreen</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00FF7F</text>
 
     <!-- LightSeaGreen -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#20B2AA"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightSeaGreen</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#20B2AA</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightSeaGreen</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#20B2AA</text>
 
     <!-- MediumSpringGreen -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#00FA9A"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumSpringGreen</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00FA9A</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumSpringGreen</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00FA9A</text>
 
     <!-- LightGreen -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#90EE90"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightGreen</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#90EE90</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightGreen</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#90EE90</text>
 
     <!-- PaleGreen -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#98FB98"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PaleGreen</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#98FB98</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PaleGreen</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#98FB98</text>
   </g>
 
   <!-- Row 5 -->
   <g transform="translate(0, 2040)">
     <!-- DarkSeaGreen -->
     <rect x="0" y="0" width="471.43" height="510" fill="#8FBC8F"/>
-    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkSeaGreen</text>
-    <text x="441.43" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#8FBC8F</text>
+    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkSeaGreen</text>
+    <text x="441.43" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#8FBC8F</text>
 
     <!-- MediumSeaGreen -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#3CB371"/>
-    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumSeaGreen</text>
-    <text x="912.86" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#3CB371</text>
+    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumSeaGreen</text>
+    <text x="912.86" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#3CB371</text>
 
     <!-- SeaGreen -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#2E8B57"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">SeaGreen</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#2E8B57</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">SeaGreen</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#2E8B57</text>
 
     <!-- ForestGreen -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#228B22"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">ForestGreen</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#228B22</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">ForestGreen</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#228B22</text>
 
     <!-- Green -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#008000"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Green</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#008000</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Green</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#008000</text>
 
     <!-- DarkGreen -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#006400"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkGreen</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#006400</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkGreen</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#006400</text>
 
     <!-- MediumAquamarine -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#66CDAA"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumAquamarine</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#66CDAA</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumAquamarine</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#66CDAA</text>
 
     <!-- Aqua -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#00FFFF"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Aqua</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00FFFF</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Aqua</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00FFFF</text>
 
     <!-- Cyan -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#00FFFF"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Cyan</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00FFFF</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Cyan</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00FFFF</text>
 
     <!-- LightCyan -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#E0FFFF"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightCyan</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#E0FFFF</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightCyan</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#E0FFFF</text>
 
     <!-- PaleTurquoise -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#AFEEEE"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PaleTurquoise</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#AFEEEE</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PaleTurquoise</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#AFEEEE</text>
 
     <!-- Aquamarine -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#7FFFD4"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Aquamarine</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#7FFFD4</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Aquamarine</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#7FFFD4</text>
 
     <!-- Turquoise -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#40E0D0"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Turquoise</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#40E0D0</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Turquoise</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#40E0D0</text>
 
     <!-- MediumTurquoise -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#48D1CC"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumTurquoise</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#48D1CC</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumTurquoise</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#48D1CC</text>
   </g>
 
   <!-- Row 6 -->
   <g transform="translate(0, 2550)">
     <!-- DarkTurquoise -->
     <rect x="0" y="0" width="471.43" height="510" fill="#00CED1"/>
-    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkTurquoise</text>
-    <text x="441.43" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00CED1</text>
+    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkTurquoise</text>
+    <text x="441.43" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00CED1</text>
 
     <!-- CadetBlue -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#5F9EA0"/>
-    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">CadetBlue</text>
-    <text x="912.86" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#5F9EA0</text>
+    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">CadetBlue</text>
+    <text x="912.86" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#5F9EA0</text>
 
     <!-- Teal -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#008080"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Teal</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#008080</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Teal</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#008080</text>
 
     <!-- DarkCyan -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#008B8B"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkCyan</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#008B8B</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkCyan</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#008B8B</text>
 
     <!-- LightSteelBlue -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#B0C4DE"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightSteelBlue</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#B0C4DE</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightSteelBlue</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#B0C4DE</text>
 
     <!-- PowderBlue -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#B0E0E6"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PowderBlue</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#B0E0E6</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PowderBlue</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#B0E0E6</text>
 
     <!-- LightBlue -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#ADD8E6"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightBlue</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#ADD8E6</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightBlue</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#ADD8E6</text>
 
     <!-- SkyBlue -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#87CEEB"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">SkyBlue</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#87CEEB</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">SkyBlue</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#87CEEB</text>
 
     <!-- LightSkyBlue -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#87CEFA"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightSkyBlue</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#87CEFA</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightSkyBlue</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#87CEFA</text>
 
     <!-- DeepSkyBlue -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#00BFFF"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DeepSkyBlue</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#00BFFF</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DeepSkyBlue</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#00BFFF</text>
 
     <!-- DodgerBlue -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#1E90FF"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DodgerBlue</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#1E90FF</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DodgerBlue</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#1E90FF</text>
 
     <!-- CornflowerBlue -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#6495ED"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">CornflowerBlue</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#6495ED</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">CornflowerBlue</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#6495ED</text>
 
     <!-- SteelBlue -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#4682B4"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">SteelBlue</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#4682B4</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">SteelBlue</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#4682B4</text>
 
     <!-- RoyalBlue -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#4169E1"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">RoyalBlue</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#4169E1</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">RoyalBlue</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#4169E1</text>
   </g>
 
   <!-- Row 7 -->
   <g transform="translate(0, 3060)">
     <!-- Blue -->
     <rect x="0" y="0" width="471.43" height="510" fill="#0000FF"/>
-    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Blue</text>
-    <text x="441.43" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#0000FF</text>
+    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Blue</text>
+    <text x="441.43" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#0000FF</text>
 
     <!-- MediumBlue -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#0000CD"/>
-    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">MediumBlue</text>
-    <text x="912.86" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#0000CD</text>
+    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">MediumBlue</text>
+    <text x="912.86" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#0000CD</text>
 
     <!-- DarkBlue -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#00008B"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkBlue</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#00008B</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkBlue</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#00008B</text>
 
     <!-- Navy -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#000080"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Navy</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#000080</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Navy</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#000080</text>
 
     <!-- MidnightBlue -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#191970"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">MidnightBlue</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#191970</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">MidnightBlue</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#191970</text>
 
     <!-- Lavender -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#E6E6FA"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Lavender</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#E6E6FA</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Lavender</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#E6E6FA</text>
 
     <!-- Thistle -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#D8BFD8"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Thistle</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#D8BFD8</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Thistle</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#D8BFD8</text>
 
     <!-- Plum -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#DDA0DD"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Plum</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#DDA0DD</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Plum</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#DDA0DD</text>
 
     <!-- Violet -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#EE82EE"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Violet</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#EE82EE</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Violet</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#EE82EE</text>
 
     <!-- Orchid -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#DA70D6"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Orchid</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#DA70D6</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Orchid</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#DA70D6</text>
 
     <!-- Fuchsia -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#FF00FF"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Fuchsia</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FF00FF</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Fuchsia</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FF00FF</text>
 
     <!-- Magenta -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#FF00FF"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Magenta</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FF00FF</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Magenta</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FF00FF</text>
 
     <!-- MediumOrchid -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#BA55D3"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumOrchid</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#BA55D3</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumOrchid</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#BA55D3</text>
 
     <!-- MediumPurple -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#9370DB"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumPurple</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#9370DB</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumPurple</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#9370DB</text>
   </g>
 
   <!-- Row 8 -->
   <g transform="translate(0, 3570)">
     <!-- BlueViolet -->
     <rect x="0" y="0" width="471.43" height="510" fill="#8A2BE2"/>
-    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">BlueViolet</text>
-    <text x="441.43" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#8A2BE2</text>
+    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">BlueViolet</text>
+    <text x="441.43" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#8A2BE2</text>
 
     <!-- DarkViolet -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#9400D3"/>
-    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkViolet</text>
-    <text x="912.86" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#9400D3</text>
+    <text x="912.86" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkViolet</text>
+    <text x="912.86" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#9400D3</text>
 
     <!-- DarkOrchid -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#9932CC"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkOrchid</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#9932CC</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkOrchid</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#9932CC</text>
 
     <!-- DarkMagenta -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#8B008B"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkMagenta</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#8B008B</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkMagenta</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#8B008B</text>
 
     <!-- Purple -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#800080"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Purple</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#800080</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Purple</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#800080</text>
 
     <!-- RebeccaPurple -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#663399"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">RebeccaPurple</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#663399</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">RebeccaPurple</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#663399</text>
 
     <!-- Indigo -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#4B0082"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Indigo</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#4B0082</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Indigo</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#4B0082</text>
 
     <!-- DarkSlateBlue -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#483D8B"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkSlateBlue</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#483D8B</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkSlateBlue</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#483D8B</text>
 
     <!-- SlateBlue -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#6A5ACD"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">SlateBlue</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#6A5ACD</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">SlateBlue</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#6A5ACD</text>
 
     <!-- MediumSlateBlue -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#7B68EE"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MediumSlateBlue</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#7B68EE</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MediumSlateBlue</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#7B68EE</text>
 
     <!-- Pink -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#FFC0CB"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Pink</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFC0CB</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Pink</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFC0CB</text>
 
     <!-- LightPink -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#FFB6C1"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightPink</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFB6C1</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightPink</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFB6C1</text>
 
     <!-- HotPink -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#FF69B4"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">HotPink</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FF69B4</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">HotPink</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FF69B4</text>
 
     <!-- DeepPink -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#FF1493"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DeepPink</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#FF1493</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DeepPink</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#FF1493</text>
   </g>
 
   <!-- Row 9 -->
   <g transform="translate(0, 4080)">
     <!-- MediumVioletRed -->
     <rect x="0" y="0" width="471.43" height="510" fill="#C71585"/>
-    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">MediumVioletRed</text>
-    <text x="441.43" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#C71585</text>
+    <text x="441.43" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">MediumVioletRed</text>
+    <text x="441.43" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#C71585</text>
 
     <!-- PaleVioletRed -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#DB7093"/>
-    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">PaleVioletRed</text>
-    <text x="912.86" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#DB7093</text>
+    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">PaleVioletRed</text>
+    <text x="912.86" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#DB7093</text>
 
     <!-- MistyRose -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#FFE4E1"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MistyRose</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFE4E1</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MistyRose</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFE4E1</text>
 
     <!-- AntiqueWhite -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#FAEBD7"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">AntiqueWhite</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FAEBD7</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">AntiqueWhite</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FAEBD7</text>
 
     <!-- Linen -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#FAF0E6"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Linen</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FAF0E6</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Linen</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FAF0E6</text>
 
     <!-- Beige -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#F5F5DC"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Beige</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F5F5DC</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Beige</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F5F5DC</text>
 
     <!-- WhiteSmoke -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#F5F5F5"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">WhiteSmoke</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F5F5F5</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">WhiteSmoke</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F5F5F5</text>
 
     <!-- LavenderBlush -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#FFF0F5"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LavenderBlush</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFF0F5</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LavenderBlush</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFF0F5</text>
 
     <!-- OldLace -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#FDF5E6"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">OldLace</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FDF5E6</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">OldLace</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FDF5E6</text>
 
     <!-- AliceBlue -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#F0F8FF"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">AliceBlue</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F0F8FF</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">AliceBlue</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F0F8FF</text>
 
     <!-- Seashell -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#FFF5EE"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Seashell</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFF5EE</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Seashell</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFF5EE</text>
 
     <!-- GhostWhite -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#F8F8FF"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">GhostWhite</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F8F8FF</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">GhostWhite</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F8F8FF</text>
 
     <!-- Honeydew -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#F0FFF0"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Honeydew</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F0FFF0</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Honeydew</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F0FFF0</text>
 
     <!-- FloralWhite -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#FFFAF0"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">FloralWhite</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFAF0</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">FloralWhite</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFAF0</text>
   </g>
 
   <!-- Row 10 -->
   <g transform="translate(0, 4590)">
     <!-- Azure -->
     <rect x="0" y="0" width="471.43" height="510" fill="#F0FFFF"/>
-    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Azure</text>
-    <text x="441.43" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F0FFFF</text>
+    <text x="441.43" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Azure</text>
+    <text x="441.43" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F0FFFF</text>
 
     <!-- MintCream -->
     <rect x="471.43" y="0" width="471.43" height="510" fill="#F5FFFA"/>
-    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">MintCream</text>
-    <text x="912.86" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#F5FFFA</text>
+    <text x="912.86" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">MintCream</text>
+    <text x="912.86" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#F5FFFA</text>
 
     <!-- Snow -->
     <rect x="942.86" y="0" width="471.43" height="510" fill="#FFFAFA"/>
-    <text x="1384.29" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Snow</text>
-    <text x="1384.29" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFAFA</text>
+    <text x="1384.29" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Snow</text>
+    <text x="1384.29" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFAFA</text>
 
     <!-- Ivory -->
     <rect x="1414.29" y="0" width="471.43" height="510" fill="#FFFFF0"/>
-    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Ivory</text>
-    <text x="1855.72" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFFF0</text>
+    <text x="1855.72" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Ivory</text>
+    <text x="1855.72" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFFF0</text>
 
     <!-- White -->
     <rect x="1885.72" y="0" width="471.43" height="510" fill="#FFFFFF"/>
-    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">White</text>
-    <text x="2327.15" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#FFFFFF</text>
+    <text x="2327.15" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">White</text>
+    <text x="2327.15" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#FFFFFF</text>
 
     <!-- Gainsboro -->
     <rect x="2357.15" y="0" width="471.43" height="510" fill="#DCDCDC"/>
-    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Gainsboro</text>
-    <text x="2798.58" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#DCDCDC</text>
+    <text x="2798.58" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Gainsboro</text>
+    <text x="2798.58" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#DCDCDC</text>
 
     <!-- LightGray -->
     <rect x="2828.58" y="0" width="471.43" height="510" fill="#D3D3D3"/>
-    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">LightGray</text>
-    <text x="3270.01" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#D3D3D3</text>
+    <text x="3270.01" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">LightGray</text>
+    <text x="3270.01" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#D3D3D3</text>
 
     <!-- Silver -->
     <rect x="3300.01" y="0" width="471.43" height="510" fill="#C0C0C0"/>
-    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">Silver</text>
-    <text x="3741.44" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#C0C0C0</text>
+    <text x="3741.44" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">Silver</text>
+    <text x="3741.44" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#C0C0C0</text>
 
     <!-- DarkGray -->
     <rect x="3771.44" y="0" width="471.43" height="510" fill="#A9A9A9"/>
-    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="50" text-anchor="end">DarkGray</text>
-    <text x="4212.87" y="450" font-family="monospace" fill="black" font-size="36" text-anchor="end">#A9A9A9</text>
+    <text x="4212.87" y="60" font-family="monospace" fill="black" font-size="45" text-anchor="end">DarkGray</text>
+    <text x="4212.87" y="480" font-family="monospace" fill="black" font-size="30" text-anchor="end">#A9A9A9</text>
 
     <!-- Gray -->
     <rect x="4242.87" y="0" width="471.43" height="510" fill="#808080"/>
-    <text x="4684.3" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">Gray</text>
-    <text x="4684.3" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#808080</text>
+    <text x="4684.3" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">Gray</text>
+    <text x="4684.3" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#808080</text>
 
     <!-- DimGray -->
     <rect x="4714.3" y="0" width="471.43" height="510" fill="#696969"/>
-    <text x="5155.73" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DimGray</text>
-    <text x="5155.73" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#696969</text>
+    <text x="5155.73" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DimGray</text>
+    <text x="5155.73" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#696969</text>
 
     <!-- LightSlateGray -->
     <rect x="5185.73" y="0" width="471.43" height="510" fill="#778899"/>
-    <text x="5627.16" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">LightSlateGray</text>
-    <text x="5627.16" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#778899</text>
+    <text x="5627.16" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">LightSlateGray</text>
+    <text x="5627.16" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#778899</text>
 
     <!-- SlateGray -->
     <rect x="5657.16" y="0" width="471.43" height="510" fill="#708090"/>
-    <text x="6098.59" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">SlateGray</text>
-    <text x="6098.59" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#708090</text>
+    <text x="6098.59" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">SlateGray</text>
+    <text x="6098.59" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#708090</text>
 
     <!-- DarkSlateGray -->
     <rect x="6128.59" y="0" width="471.43" height="510" fill="#2F4F4F"/>
-    <text x="6570.02" y="60" font-family="monospace" fill="white" font-size="50" text-anchor="end">DarkSlateGray</text>
-    <text x="6570.02" y="450" font-family="monospace" fill="white" font-size="36" text-anchor="end">#2F4F4F</text>
+    <text x="6570.02" y="60" font-family="monospace" fill="white" font-size="45" text-anchor="end">DarkSlateGray</text>
+    <text x="6570.02" y="480" font-family="monospace" fill="white" font-size="30" text-anchor="end">#2F4F4F</text>
   </g>
 </svg>
