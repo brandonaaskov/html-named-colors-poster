@@ -76,7 +76,7 @@
 
   <!-- ORANGE/BROWN GROUP -->
   <g transform="translate(0, 630)">
-    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">ORANGES &amp;BROWNS</text>
+    <text x="3300" y="80" font-family="monospace" fill="black" font-size="60" text-anchor="middle">ORANGES &amp; BROWNS</text>
 
     <!-- SaddleBrown -->
     <rect x="0" y="100" width="471.43" height="510" fill="#8B4513"/>
